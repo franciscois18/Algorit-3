@@ -6,9 +6,9 @@
 
 | Nombre | Carrera | Email | Responsabilidades |
 |--------|---------|-------|-------------------|
-| **Fernando Garay** | Ingeniería en Computación | fgaray@umag.cl | Algoritmos de Búsqueda, Documentación |
-| **Francisco Miranda** | Ingeniería en Computación | fmirchav@umag.cl | Estructuras de Datos, Testing |
-| **Ignacio Contreras** | Ingeniería en Computación | igcontre@umag.cl | Preprocesamiento, Análisis de Rendimiento |
+| **Fernando Garay** | Ingeniería en Computación | | Algoritmos de Búsqueda, Documentación |
+| **Francisco Miranda** | Ingeniería en Computación |  | Estructuras de Datos, Testing |
+| **Ignacio Contreras** | Ingeniería en Computación |  | Preprocesamiento, Análisis de Rendimiento |
 
 ---
 
